@@ -1,0 +1,408 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.navbar {
+    display: flex;
+
+}
+.navbar img{ 
+    margin-left: 20px;
+    
+    height: 40px; 
+}
+.navbar span {
+    color: #00b39b;
+}
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin-left: 500px;
+    }
+
+    nav li {
+        display: inline;
+        margin-left: 40px;
+        
+        
+         }
+    
+    nav a {
+    text-decoration: none;
+        color: black
+        }
+        .navbar span {
+            color: #00b39b;
+            margin-left: 40px;
+        }
+        .navbar h1 {
+            color: #00b39b;
+            margin-left: 60px;
+    
+        }
+        .navbar a:hover {
+            color: #00b39b;
+        }
+        H2{
+            text-align: center;
+            color: #00b39b;
+        }
+        .fallou img{
+            margin-left: 800px;
+            width: 40px;
+            height: 40px;
+        }
+    
+
+            
+    
+        .présentation{
+            display: flex;
+            justify-content:center;
+            text-align: center;
+            margin-left: 40px;
+
+        }
+    .p1{
+    
+     text-align: center;
+     padding: 40px;
+     font-size: 18px;
+
+    }
+    .p2{
+        text-align: center;
+        padding: 40px;
+        font-size: 18px;
+        
+    
+    }
+    .para{
+        margin: 50px;
+        
+    }
+    .container {
+        display: flex;
+        justify-content: space-around;
+        width: 70%;
+        margin-top: 0px;
+        margin-left: 300px;
+        border-radius: 20px;
+        
+    }
+.box1 {
+    width: 450px; 
+    height: 400px;
+    background-color: #00ccb1;
+    margin-right: 20px;
+    color: #ffffff;
+    padding: 42px 42px 0px;
+    border-radius: 10px;
+}
+.box2 {
+    width: 450px;
+    height: 400px;
+    background-color: #3d83df;
+    margin-right: 20px;
+    color: white;
+    padding: 42px 42px 0px; 
+    border-radius: 10px;
+}
+.box3 {
+    width: 450px;
+    height: 400px;
+    background-color: #1b2734;
+    margin-right: 20px;
+    color: #FFFF;
+    padding: 42px 42px 0px;
+    border-radius: 10px;
+}
+.Nour {
+    display: flex;
+margin-left: 300px;
+color: #00b39b;
+
+}
+
+
+    
+.logo {
+    display: grid; 
+    grid-template-columns: repeat(4,1fr);
+    
+gap: 20px;
+}
+.logo li {
+    list-style: none;
+}
+.logo a {
+
+    color: grey;
+    text-decoration: none;
+}
+.logo a:hover {
+    color: #00b39b;
+}
+.img img {
+    width: 50px;
+    height: 40px;
+    background-color: #FFFF;
+}
+.saidou {
+    border: 800px;
+    background-color: #e5faf8;
+    height: 800px;
+}
+.Nourou {
+    display: grid;
+    justify-content: center;
+
+}
+.Nourou1{
+    margin-top: 40px;
+}
+
+.Nourou img {
+    width:  500px; 
+  height: 500px; 
+  background: image("https://www.docplanner.com/img/sygnet.png");
+  background-size: cover;
+  margin-top: 200px;
+ 
+  }
+
+.container2 {
+width: 300px;
+height: 300px;
+display: grid;
+grid-template-columns: repeat(2,1fr);
+gap: 10px;
+}
+.box {
+    width: 250px;
+    height: 250px;
+    margin: 5px;
+    background-color: #FFFF;
+    text-align: center;
+    padding: 20px;
+    gap: 30px;
+    
+}
+#BOX1{
+    margin-top: 70px;
+}
+#BOX1 h3 {
+    color: #00b39b;
+}
+#BOX2{
+    margin-top: 40px;
+}
+#BOX2 h3 {
+    color: #00b39b;
+}
+#BOX3{
+    margin-top: 30px;
+}
+#BOX3 h3 {
+color: #00b39b;
+}
+#BOX4 h3{
+    color: #00b39b;
+    margin-top: 20px;
+}
+
+
+
+   
+  .wata h1{
+    text-align: center;
+    color: #333333;
+  }
+  .man{
+    color: #00b39b;
+    text-align: center;
+  }
+  .man p {
+    color: black;
+  }
+  .BGT BGT1 {
+    width: 0px;
+    height: 0px;
+  }
+  
+  .FOOT {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+    .Faye {
+        display: flex;
+    flex-wrap: wrap;
+    }
+    .countrie{
+        
+    }
+    
+    .wata{
+        color: black;
+    }
+    
+    .Sy{
+        display: flex;
+    }
+    .countrie{
+        margin-left: 270px;
+    }
+    .dis {
+        margin: 15px;
+    }
+    .divi {
+        display: flex;
+        justify-content: center;
+    }
+    .divi1 {
+        display: flex;
+        justify-content: center;
+    }
+    .Vrs2 button {
+        border: none;
+        box-shadow: none;
+        border: rgb(0, 72, 255);
+        width: 150px;
+        height: 25px;
+        background-color: #3d83df;
+        margin-left: 20px;
+        border-radius: 5px;
+        color: #FFFF;
+    }
+.Vrs2 a {
+    text-decoration: none;
+    color: #747474;
+}
+    .Brc2 button {
+        border: none;
+        box-shadow: none;
+        border: rgb(0, 72, 255);
+        width: 150px;
+        height: 25px;
+        background-color: #3d83df;
+        margin-left: 20px;
+        border-radius: 5px;
+        color: #FFFF;
+    }
+    .Brc2 a {
+        text-decoration: none;
+        color: #747474;
+    }
+    .Mun2 button {
+        border: none;
+        box-shadow: none;
+        border: rgb(0, 72, 255);
+        width: 150px;
+        height: 25px;
+        background-color: #3d83df;
+        margin-left: 20px;
+        border-radius: 5px;
+        color: #FFFF;
+    }
+    .Mun2 a {
+        text-decoration: none;
+        color: #747474;
+    }
+    
+    .Is2 button {
+        border: none;
+        box-shadow: none;
+        border: rgb(0, 72, 255);
+        width: 150px;
+        height: 25px;
+        background-color: #3d83df;
+        margin-left: 20px;
+        border-radius: 5px;
+        color: #FFFF;
+    }
+    .Is2 a {
+        text-decoration: none;
+        color: #747474;
+    }
+    .Rom2 button {
+        border: none;
+        box-shadow: none;
+        border: rgb(0, 72, 255);
+        width: 150px;
+        height: 25px;
+        background-color: #3d83df;
+        margin-left: 20px;
+        border-radius: 5px;
+        color: #FFFF;
+    }
+    .Rom2 a {
+        text-decoration: none;
+        color: #747474;
+    }
+    .Bol2 button {
+        border: none;
+        box-shadow: none;
+        border: rgb(0, 72, 255);
+        width: 150px;
+        height: 25px;
+        background-color: #3d83df;
+        margin-left: 20px;
+        border-radius: 5px;
+        color: #FFFF;
+    }
+    .Bol2 a {
+        text-decoration: none;
+        color: #747474;
+    }
+    .Cur2 button {
+        border: none;
+        box-shadow: none;
+        border: rgb(0, 72, 255);
+        width: 150px;
+        height: 25px;
+        background-color: #3d83df;
+        margin-left: 20px;
+        border-radius: 5px;
+        color: #FFFF;
+    }
+    .Cur2 a {
+        text-decoration: none;
+        color: #747474;
+    }
+    .Rio2 button {
+        border: none;
+        box-shadow: none;
+        border: rgb(0, 72, 255);
+        width: 150px;
+        height: 25px;
+        background-color: #3d83df;
+        margin-left: 20px;
+        border-radius: 5px;
+        color: #FFFF;
+    }
+    .Rio2 a {
+        text-decoration: none;
+        color: #747474;
+    }
+    .Mxc2 button {
+        border: none;
+        box-shadow: none;
+        border: rgb(0, 72, 255);
+        width: 150px;
+        height: 25px;
+        background-color: #3d83df;
+        margin-left: 20px;
+        border-radius: 5px;
+        color: #FFFF;
+    }
+    .Mxc2 a {
+        text-decoration: none;
+        color: #747474;
+    }
+    .Or1 a{
+        text-decoration: none;
+    }
+    .oll p{
+        text-align: center;
+    }
